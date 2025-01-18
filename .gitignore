@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# filter png files as we will be generating lots of them
+*.png
+
 # C extensions
 *.so
 
