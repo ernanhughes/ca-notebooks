@@ -3,3 +3,6 @@ ipywidgets
 matplotlib
 numpy<2
 scipy
+
+# color_wars 
+pygame
